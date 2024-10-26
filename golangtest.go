@@ -1,3 +1,4 @@
+//пакет тестировочный
 package golangtest
 
 import "fmt"
