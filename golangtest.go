@@ -1,4 +1,4 @@
-//пакет тестировочный
+//Package golangtest send the text Hello!
 package golangtest
 
 import "fmt"
